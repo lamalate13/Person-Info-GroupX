@@ -1,5 +1,5 @@
-name = input("Name? ")
-print("Hello " + name)
+name = input("Lijule")
+print("Hello " + Lijule)
 age = input("Age?")
 addr = input("City?")
 print(name + "lives in" + addr)
